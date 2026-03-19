@@ -17,7 +17,7 @@ This project features a comprehensive **Advanced Excel Dashboard** designed to m
 * **Pivot Table Aggregation:** Created summary reports for revenue and patient counts.
 
 ## Dashboard Preview
-![Hospital Dashboard Preview](visuals/1.jpg)
+![Hospital Dashboard Preview](visuals/Dashboard preview.png)
 
 ## Insights Found
 1. **Revenue Drivers:** Identified high-cost treatments like MRI and Chemotherapy as primary revenue sources.
